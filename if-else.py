@@ -10,6 +10,7 @@ else:
     print ("wrong")
 
 
+
 person = input("enter your name")
 print ("Hello", person)
 
